@@ -1,0 +1,2 @@
+Have used Random Forest in this project. It achieves about 87% accuracy on the 9000 test cases present in the competition. SVM approach provides higher accuracy, so feel free to test that out as well!
+Make changes in the final csv manually before submitting, add Id index instead of zero.

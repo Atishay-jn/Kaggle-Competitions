@@ -1,5 +1,2 @@
-# Kaggle-Competitions
-A repository with easy yet good solutions to Kaggle competition problems. 
-Problem names are same as the folder names present. 
-
-Consists of problems of past competitions only.
+Have used Random Forest in this project. It achieves about 87% accuracy on the 9000 test cases present in the competition. SVM approach provides higher accuracy, so feel free to test that out as well!
+Make changes in the final csv manually before submitting, add Id index instead of zero.
